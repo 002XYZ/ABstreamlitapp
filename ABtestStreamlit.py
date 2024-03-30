@@ -34,7 +34,7 @@ def main():
         """
         <style>
             body {
-                background-image: url("https://c1.wallpaperflare.com/preview/451/968/45/water-pink-background-soothing.jpg");
+                background-image: url("dark-galaxy-milky-way-10.jpg");
                 background-size: cover;
             }
             .input-container {
